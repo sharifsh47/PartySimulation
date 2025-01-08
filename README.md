@@ -4,7 +4,7 @@ This project is a Java-based simulation of a dynamic party environment, where ag
 
 
 Here's an explanation of each class:
-Agent CLass
+Agent Class
 - Represents a participant in the simulation with different states (`SEARCHING_BAR`, `ON_DANCEFLOOR`, etc.).
 - Determines the agent's movement based on its current state.
 - Can transition between states (e.g., from `SEARCHING_BAR` to `AT_BAR`).
